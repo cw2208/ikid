@@ -10,8 +10,8 @@ import UIKit
 class DadVC: JokeViewController {
     override func viewDidLoad() {
 
-        question = "Why can’t you hear a pterodactyl go to the bathroom?"
-        punchline = "Because the P is silent."
+        question = "What do you call cheese that isn’t yours?"
+        punchline = "Nacho cheese."
 
         super.viewDidLoad()
         title = "Dad"
